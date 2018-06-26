@@ -26,6 +26,11 @@ permalink: /resume
   * Integrated the framework into ABC, CBS, MSN, MTV, Comedy Centeral, and Pandora Radio's video players.
   * Video advertising went from proof of concept to 2nd highest revenue for the company.
 
+* *Kid Chess, Software Engineer*
+  * Developed interactive games and videos to teach children how to play chess.
+  * Videos and games are still being used after 10 years in the classroom.
+  * Contracted work years later to upgrade games from Flash to HTML5.
+
 ## Current Stack ##
 
 `JavaScript`, `React`, `Node.js`, `Azure`, `Webpack`, `FlexBox`, `Angular 1`, `Websockets`, `TeamCity Build Server`, `Octopus Deploy`, `git`
