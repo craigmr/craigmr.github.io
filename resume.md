@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume
 ---
-## Experience ##
+# Experience #
 
 * *PureCars, Frontend Team Lead*
   * Hired to take over as lead engineer for frontend development that was previously led by Director of Development with little frontend technology experience.
@@ -20,6 +20,11 @@ permalink: /resume
   * Wrote a greenfield text messaging application in Angular 1 base off the prototype. The current application is still running in production after 4 years.
   * Upgraded legacy long polling service in prototype to websockets for higher realtime reliablity.
   * Improved load time using minification, cdns, long caching policies, local storage, application cache, and chunked modules to keep revisit load times around 1 second and initial visits to less than 7 seconds.
+
+* *Eyewonder, Software Engineer*
+  * Developed a VAST/VPAID compilant Flex framework to integrate into publisher's video player.
+  * Integrated the framework into ABC, CBS, MSN, MTV, Comedy Centeral, and Pandora Radio's video players.
+  * Video advertising went from proof of concept to 2nd highest revenue for the company.
 
 ## Current Stack ##
 
